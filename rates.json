@@ -1,0 +1,7 @@
+{
+  "i2c": 92.5,
+  "c2i_low": 88.0,
+  "c2i_high": 89.5,
+  "c2i_threshold": 100,
+  "crypto_to_crypto_fee": "3% + network fees"
+}

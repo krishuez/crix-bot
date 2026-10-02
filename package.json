@@ -1,0 +1,16 @@
+{
+  "name": "crix-exchange-bot",
+  "version": "1.0.0",
+  "description": "Exchange bot for Crix Exchange & MM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "register": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "better-sqlite3": "^9.4.3",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
